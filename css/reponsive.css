@@ -1,0 +1,77 @@
+@media screen and (max-width:768px){
+
+.sameservice {
+    margin-bottom: 50px;
+}}
+
+
+@media screen and (max-width:480px){
+.banner h2 {
+    font-size:58px;
+}
+.button{
+	font-size:15px;
+}
+.banner P {
+    font-size:25px;
+}
+p.address {
+    font-size:12px;
+}}
+	
+
+ @media screen and (max-width:320px){
+.banner h2 {
+    font-size: 38px;
+}
+.banner P {
+    font-size: 18px;
+}
+.mybutton {
+    font-size: 20px;
+}
+.ourfortfolio h2 {
+    font-size: 26px;
+}
+.ourfortfolio p {
+    font-size: 19px;
+}
+.button {
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+p.address {
+    font-size: 14px;
+}
+p.phone {
+    font-size: 14px;
+    margin-left: 31px;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
